@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\all c# work\cantact-project\bin\Debug\net8.0\cantact-project.exe
+C:\Users\USER\Desktop\all c# work\cantact-project\bin\Debug\net8.0\cantact-project.deps.json
+C:\Users\USER\Desktop\all c# work\cantact-project\bin\Debug\net8.0\cantact-project.runtimeconfig.json
+C:\Users\USER\Desktop\all c# work\cantact-project\bin\Debug\net8.0\cantact-project.dll
+C:\Users\USER\Desktop\all c# work\cantact-project\bin\Debug\net8.0\cantact-project.pdb
+C:\Users\USER\Desktop\all c# work\cantact-project\obj\Debug\net8.0\cantact-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\all c# work\cantact-project\obj\Debug\net8.0\cantact-project.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\all c# work\cantact-project\obj\Debug\net8.0\cantact-project.AssemblyInfo.cs
+C:\Users\USER\Desktop\all c# work\cantact-project\obj\Debug\net8.0\cantact-project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\all c# work\cantact-project\obj\Debug\net8.0\cantact-project.dll
+C:\Users\USER\Desktop\all c# work\cantact-project\obj\Debug\net8.0\refint\cantact-project.dll
+C:\Users\USER\Desktop\all c# work\cantact-project\obj\Debug\net8.0\cantact-project.pdb
+C:\Users\USER\Desktop\all c# work\cantact-project\obj\Debug\net8.0\cantact-project.genruntimeconfig.cache
+C:\Users\USER\Desktop\all c# work\cantact-project\obj\Debug\net8.0\ref\cantact-project.dll
